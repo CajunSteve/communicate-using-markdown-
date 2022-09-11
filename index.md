@@ -4,3 +4,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Add Checkboxes
+- [ ] Turn in assignment
+- [ ] Get good grade
